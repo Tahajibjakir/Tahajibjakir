@@ -65,6 +65,15 @@
 </p>
 
 
+<!--📈 Contribution Graph-->
+<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tahajibjakir&bg_color=0d1117&color=ffffff&line=00bcd4&point=ffd700&area=false&hide_border=false" style="border-radius: 15px;" />
+</div>
+
+--------
+
+
 
 
 
