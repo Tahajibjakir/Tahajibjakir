@@ -122,6 +122,9 @@
       <br>Hugging Face
     </td>
     <td align="center" width="98">
+  <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" /><br>MySQL
+    </td>
+    <td align="center" width="98">
       <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
       <br>Git
     </td>
@@ -133,12 +136,13 @@
       <img src="https://skillicons.dev/icons?i=arduino" width="48" height="48" alt="Arduino" />
       <br>Arduino
     </td>
+    
+  </tr>
+  <tr>
     <td align="center" width="98">
       <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
       <br>HTML5
     </td>
-  </tr>
-  <tr>
     <td align="center" width="98">
       <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
       <br>CSS3
