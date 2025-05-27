@@ -64,6 +64,104 @@
 <br />
 
 
+<h2 align="left" id="prosenjit07-tech">Favorite Technologies</h2>
+
+> These are the tools, languages, and platforms I enjoy using the most when building and exploring new ideas.
+
+
+
+
+<table>
+  <tr>
+    <td align="center" width="98">
+      <img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="98">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="48" height="48" alt="PyCharm" />
+      <br>PyCharm
+    </td>
+    <td align="center" width="98">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/2/28/Google_Colaboratory_Logo.svg" width="48" height="48" alt="Google Colab" />
+      <br>Google Colab
+    </td>
+    <td align="center" width="98">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Anaconda_Logo.png/480px-Anaconda_Logo.png" width="48" height="48" alt="Anaconda" />
+      <br>Anaconda
+    </td>
+    <td align="center" width="98">
+      <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
+      <br>AWS
+    </td>
+    <td align="center" width="98">
+      <img src="https://cdn.worldvectorlogo.com/logos/power-bi-1.svg" width="48" height="48" alt="Power BI" />
+      <br>MS Power BI
+    </td>
+    <td align="center" width="98">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="48" height="48" alt="Tableau" />
+      <br>Tableau
+    </td>
+    <td align="center" width="98">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+      <br>MySQL
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="98">
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
+      <br>TensorFlow
+    </td>
+    <td align="center" width="98">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="48" height="48" alt="Jupyter" />
+      <br>Jupyter Notebooks
+    </td>
+    <td align="center" width="98">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Hadoop_logo.svg" width="48" height="48" alt="Apache Hadoop" />
+      <br>Apache Hadoop
+    </td>
+    <td align="center" width="98">
+      <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="48" height="48" alt="Hugging Face" />
+      <br>Hugging Face
+    </td>
+    <td align="center" width="98">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Microsoft_Excel_2013-2019_logo.svg" width="48" height="48" alt="Excel" />
+      <br>Excel
+    </td>
+    <td align="center" width="98">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="98">
+      <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
+      <br>C
+    </td>
+    <td align="center" width="98">
+      <img src="https://skillicons.dev/icons?i=arduino" width="48" height="48" alt="Arduino" />
+      <br>Arduino
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="98">
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center" width="98">
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
+      <br>CSS3
+    </td>
+    <td align="center" width="98">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+      <br>VS Code
+    </td>
+    <td align="center" width="98">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="48" height="48" alt="Adobe Photoshop" />
+      <br>Adobe Photoshop
+    </td>
+  </tr>
+</table>
+
+
+
 
 <!--📊 GitHub Stats Table-->
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
