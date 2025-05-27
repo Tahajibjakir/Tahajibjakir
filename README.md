@@ -119,16 +119,24 @@
 
 
 
-<h2 align="center" style="color:#58a6ff; font-weight: 700; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+<h2 align="center" style="color:#c56a90; font-weight: 700; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
   📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈
 </h2>
-<div align="center" style="background-color:#0d1117; padding: 20px; border-radius: 15px; box-shadow: 0 0 15px #58a6ff;">
+
+<div align="center" style="
+  background: linear-gradient(180deg, #000000 0%, #441350 100%);
+  padding: 20px;
+  border-radius: 15px;
+  display: inline-block;
+  box-shadow: 0 0 15px #c56a90;
+">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Tahajibjakir&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=79c0ff&area=false&hide_border=false"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Tahajibjakir&bg_color=441350&color=c56a90&line=c56a90&point=ffeb95&area=false&hide_border=false"
     alt="Contribution Graph"
-    style="border-radius: 15px;"
+    style="border-radius: 15px; display: block;"
   />
 </div>
+
 
 
 
