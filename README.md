@@ -31,5 +31,13 @@
 </picture>
 <br />
 
+<h3 align="left">Current Learning</h3>
+<ul align="left">
+  <li>Advancing my expertise in Machine Learning, with a focus on Federated Learning and privacy-preserving AI.</li>
+  <li>Exploring Generative AI using Hugging Face, LangChain, and large language models for multilingual and real-world applications.</li>
+  <li>Building intelligent systems that integrate deep learning with real-world data in agriculture and sustainability.</li>
+</ul>
+
+
 
 
