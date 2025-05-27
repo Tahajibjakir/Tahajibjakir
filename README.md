@@ -23,7 +23,7 @@
 
 
 <!--Languages and Tools Section-->       
-<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
+<h2 align="center">TECH STACK & LATEST ACTIVITY</h2> 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
@@ -33,10 +33,38 @@
 
 <h3 align="left">Current Learning</h3>
 <ul align="left">
-  <li>Advancing my expertise in Machine Learning, with a focus on Federated Learning and privacy-preserving AI.</li>
+  <li>Advancing my expertise in Machine Learning, with a focus on Federated Learning and privacy-preserving AI </li>
   <li>Exploring Generative AI using Hugging Face, LangChain, and large language models for multilingual and real-world applications.</li>
   <li>Building intelligent systems that integrate deep learning with real-world data in agriculture and sustainability.</li>
 </ul>
+
+
+
+
+<!--🏆 GitHub Trophies Section 🏆-->
+<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
+<p align="center">
+  <a href="https://github.com/Tahajibjakir">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Tahajibjakir&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Tahajibjakir&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
+      <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=Tahajibjakir&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
+    </picture>
+  </a>
+</p>
+
+<!--🥇 GitHub Achievements via Vaunt.dev-->
+<p align="center">
+  <a href="https://github.com/Tahajibjakir">
+    <img
+      src="https://api.vaunt.dev/v1/github/entities/Tahajibjakir/achievements?format=svg&limit=6"
+      width="400"
+      alt "GitHub Achievements"
+    />
+  </a>
+</p>
+
+
 
 
 
