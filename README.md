@@ -131,12 +131,12 @@
       <img src="https://skillicons.dev/icons?i=arduino" width="48" height="48" alt="Arduino" />
       <br>Arduino
     </td>
-  </tr>
-  <tr>
     <td align="center" width="98">
       <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
       <br>HTML5
     </td>
+  </tr>
+  <tr>
     <td align="center" width="98">
       <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
       <br>CSS3
