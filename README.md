@@ -139,7 +139,7 @@
 
 
 
-<!--Dynamic Quote card updates everyday at 12 PM--> 
+<!--Dynamic Quote card updates every day at 12 PM--> 
 <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
 
 
@@ -148,6 +148,46 @@
     <img src="https://readme-daily-quotes.vercel.app/api?author=Thich%20Nhat%20Hanh&quote=We%20have%20to%20walk%20in%20a%20way%20that%20we%20only%20print%20peace%20and%20serenity%20on%20the%20Earth.%20Walk%20as%20if%20you%20are%20kissing%20the%20Earth%20with%20your%20feet.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
+
+
+
+<!--Contact Section--> 
+
+<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Mᴇ 🤝 </h2>
+<div align="center">
+  
+  <a href="mailto:tahajibjakirkhan00@gmail.com" target="_blank">
+    <img src="./gmail.png" width="50" height="50" alt="tahajibjakirkhan00@gmail.com" style="margin-bottom: 5px;" />
+  </a>
+
+  <a href="https://www.instagram.com/tahajib.jakir/" target="_blank">
+    <img src="./instagram.png" width="50" height="50" alt="kiran_a_n" style="margin-bottom: 5px;" />
+  </a>
+
+  <a href="https://github.com/Tahajibjakir" target="_blank">
+    <img src="./github.png" width="50" height="50" alt="Kiran1689" style="margin-bottom: 5px;" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/tahajib-jakir-khan-53b30822b/" target="_blank">
+    <img src="./linkedin.png" width="50" height="50" alt="linkedin" style="margin-bottom: 5px;" />
+  </a>
+
+</div>
+<br/>
+
+
+<!--Buy me a coffee-->
+<div align="center">
+<a href="https://www.buymeacoffee.com/Kiran1689" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
+</div>
+
+
+<!--Footer--> 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
+
 
 
 
