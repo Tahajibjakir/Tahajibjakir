@@ -100,7 +100,7 @@
     <td width="50%">
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
-        <a href="https://github.com/Tahajibjakir/Federated-Learning-BetelNet10">
+        <a href="[https://github.com/Tahajibjakir/Federated-Learning-BetelNet10](https://github.com/Tahajibjakir/PromptCrafter_A-Streamlit-Powered-Few-Shot-Generative-AI-for-Social-Content-Generation.git)">
           <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Tahajibjakir&repo=Federated-Learning-BetelNet10&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Federated Learning - BetelNet10" />
         </a>
       </p>
