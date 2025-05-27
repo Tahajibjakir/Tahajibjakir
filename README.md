@@ -7,11 +7,16 @@
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
 
+<!--🔥 Stylish Follow Button -->
 <p align="center">
-  <a href="https://github.com/Tahajibjakir?tab=followers" target="_blank">
-    <img src="https://img.shields.io/github/followers/Tahajibjakir?label=Follow&style=social" alt="GitHub Follow Badge" />
+  <a href="https://github.com/Tahajibjakir?tab=followers" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="40" style="vertical-align: middle; margin-right: 10px;" />
+    <span style="font-size: 24px; font-weight: bold; color: #ffffff; background: #333333; padding: 10px 20px; border-radius: 8px; box-shadow: 0 0 10px rgba(255, 255, 255, 0.2);">
+      Follow Me on GitHub
+    </span>
   </a>
 </p>
+
 
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Tahajib! 
