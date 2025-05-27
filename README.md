@@ -1,5 +1,5 @@
 <!--Banner-->
-<img src="https://github.com/user-attachments/assets/4203c31e-fcb9-4607-8391-a32b89a5686e" alt="Banner" style="width:100%; height:auto;" />
+<img src="banner.png" alt="Banner" style="width:100%; height:auto;" />
 
 
 <!--Night Owl image-->
