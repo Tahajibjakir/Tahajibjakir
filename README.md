@@ -120,12 +120,16 @@
 
 
 <!--📈 Contribution Graph-->
-<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tahajibjakir&bg_color=0d1117&color=ffffff&line=00bcd4&point=ffd700&area=false&hide_border=false" style="border-radius: 15px;" />
+<h2 align="center" style=" color:#00bcd4; font-weight: 900; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+  📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈
+</h2>
+<div align="center" style="background-color:#0d1117; padding: 20px; border-radius: 20px; box-shadow: 0 0 25px #00bcd4;">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Tahajibjakir&bg_color=0d1117&color=ffffff&line=00bcd4&point=ffd700&area=false&hide_border=false"
+    alt "Contribution Graph"
+    style="border-radius: 15px; box-shadow: 0 0 15px #ffd700;"
+  />
 </div>
-
---------
 
 
 
