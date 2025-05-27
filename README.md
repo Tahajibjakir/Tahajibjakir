@@ -38,6 +38,11 @@
   <li>Building intelligent systems that integrate deep learning with real-world data in agriculture and sustainability.</li>
 </ul>
 
+<br />
+<br />
+<br />
+<br />
+
 
 
 
@@ -63,6 +68,8 @@
     />
   </a>
 </p>
+<br />
+
 
 
 <!--📈 Contribution Graph-->
