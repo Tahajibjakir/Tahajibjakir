@@ -85,8 +85,8 @@
     </td>
     <td align="center" width="98">
       <img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="48" height="48" alt="Google Colab" /><br>Google Colab
-    <td align="center" width="98">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Anaconda_Logo.png" width="48" height="48" alt="Anaconda" /><br>Anaconda
+     <td align="center" width="98">
+      <img src="https://user-images.githubusercontent.com/674621/151226064-0212b5b0-d69e-4638-b5d6-1635d6b2d4c2.png" width="48" height="48" alt="Anaconda" /><br>Anaconda
     </td>
     <td align="center" width="98">
       <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
@@ -99,7 +99,7 @@
       <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="48" height="48" alt="Tableau" /><br>Tableau
     </td>
     <td align="center" width="98">
-      <img src="https://cdn.iconscout.com/icon/free/png-256/microsoft-excel-1411847-1194331.png" width="48" height="48" alt="Excel" /><br>Excel
+      <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="48" height="48" alt="Excel" /><br>Excel
     </td>
   </tr>
   <tr>
