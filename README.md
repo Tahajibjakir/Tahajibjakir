@@ -95,7 +95,7 @@
       <br>AWS
     </td>
     <td align="center" width="98">
-      <img src="https://cdn.worldvectorlogo.com/logos/power-bi-2.svg" width="48" height="48" alt="Power BI" /><br>Power BI
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="48" height="48" alt="Power BI" /><br>Power BI
     </td>
     <td align="center" width="98">
       <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="48" height="48" alt="Tableau" /><br>Tableau
