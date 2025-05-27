@@ -88,8 +88,7 @@
       <br>Google Colab
     </td>
      <td align="center" width="98">
-      <img src="https://user-images.githubusercontent.com/674621/151226064-0212b5b0-d69e-4638-b5d6-1635d6b2d4c2.png" width="48" height="48" alt="Anaconda" />
-       <br>Anaconda
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="48" height="48" alt="Anaconda" /><br>Anaconda
     </td>
     <td align="center" width="98">
       <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
