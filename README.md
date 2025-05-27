@@ -64,10 +64,10 @@
 <p align="center">
   <a href="https://github.com/Tahajibjakir">
     <img
-      src="https://api.vaunt.dev/v1/github/entities/Tahajibjakir/achievements?format=svg&limit=6"
-      width="400"
-      alt "GitHub Achievements"
+  src="https://api.vaunt.dev/v1/github/entities/Tahajibjakir/achievements?format=svg&limit=6"
+  width="400"
     />
+
   </a>
 </p>
 <br />
