@@ -64,11 +64,13 @@
 <br />
 
 
+
+
+
+
 <h2 align="left" id="prosenjit07-tech">Favorite Technologies</h2>
 
 > These are the tools, languages, and platforms I enjoy using the most when building and exploring new ideas.
-
-
 
 
 <table>
@@ -82,28 +84,23 @@
       <br>PyCharm
     </td>
     <td align="center" width="98">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/2/28/Google_Colaboratory_Logo.svg" width="48" height="48" alt="Google Colab" />
-      <br>Google Colab
+      <img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="48" height="48" alt="Google Colab" /><br>Google Colab
     </td>
     <td align="center" width="98">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Anaconda_Logo.png/480px-Anaconda_Logo.png" width="48" height="48" alt="Anaconda" />
-      <br>Anaconda
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Anaconda_Logo.png" width="48" height="48" alt="Anaconda" /><br>Anaconda
     </td>
     <td align="center" width="98">
       <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
       <br>AWS
     </td>
     <td align="center" width="98">
-      <img src="https://cdn.worldvectorlogo.com/logos/power-bi-1.svg" width="48" height="48" alt="Power BI" />
-      <br>MS Power BI
+      <img src="https://cdn.worldvectorlogo.com/logos/power-bi-2.svg" width="48" height="48" alt="Power BI" /><br>Power BI
     </td>
     <td align="center" width="98">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="48" height="48" alt="Tableau" />
-      <br>Tableau
+      <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="48" height="48" alt="Tableau" /><br>Tableau
     </td>
     <td align="center" width="98">
-      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-      <br>MySQL
+      <img src="https://cdn.iconscout.com/icon/free/png-256/microsoft-excel-1411847-1194331.png" width="48" height="48" alt="Excel" /><br>Excel
     </td>
   </tr>
   <tr>
