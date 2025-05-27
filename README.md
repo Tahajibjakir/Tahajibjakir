@@ -85,7 +85,6 @@
     </td>
     <td align="center" width="98">
       <img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="48" height="48" alt="Google Colab" /><br>Google Colab
-    </td>
     <td align="center" width="98">
       <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Anaconda_Logo.png" width="48" height="48" alt="Anaconda" /><br>Anaconda
     </td>
@@ -119,10 +118,6 @@
     <td align="center" width="98">
       <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="48" height="48" alt="Hugging Face" />
       <br>Hugging Face
-    </td>
-    <td align="center" width="98">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Microsoft_Excel_2013-2019_logo.svg" width="48" height="48" alt="Excel" />
-      <br>Excel
     </td>
     <td align="center" width="98">
       <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
