@@ -27,7 +27,7 @@
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things in the field of AI.. I believe that every day is a learning opportunity.
 - ❤ Contributing to Open Source.
-- 💻 Visit my [Portfolio](https://kiran1689.github.io) for more details about me.
+- 💻 Visit my [Portfolio](https://tahajib.netlify.app/) for more details about me.
 <!--End Intro-->
 
 
